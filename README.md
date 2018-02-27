@@ -26,7 +26,7 @@ Este documento contiene una imagen del diseño del modelo entidad relación en c
 Este documento contiene una imagen del diseño del modelo entidad relación, con las definiciones de las relaciones entre las entidades.
 
 ## Datos finales de prueba
-[Datos de prueba finales]h(ttps://github.com/ivancete/Bases-De-Datos-Distribuidas/blob/master/Datos%20de%20prueba%20para%20Bases%20de%20Datos%20Distribuidas%20%20(2017-2018).pdf)
+[Datos de prueba finales](https://github.com/ivancete/Bases-De-Datos-Distribuidas/blob/master/Datos%20de%20prueba%20para%20Bases%20de%20Datos%20Distribuidas%20%20(2017-2018).pdf)
 
 Por último, tenemos este último fichero que contiene los datos de prueba usados para comprobar la correcta implementación y diseño de la base de datos distribuida.
 

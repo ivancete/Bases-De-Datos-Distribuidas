@@ -6,7 +6,7 @@ Para este proyecto se ha usado la herramienta SQL Developer, de Oracle y para la
 
 
 ## Objetivos
-https://github.com/ivancete/Bases-De-Datos-Distribuidas/blob/master/Enunciado%20de%20pra%CC%81cticas%20de%20Bases%20de%20Datos%20Distribuidas%20%20(2017-2018).pdf
+[a link](https://github.com/ivancete/Bases-De-Datos-Distribuidas/blob/master/Enunciado%20de%20pra%CC%81cticas%20de%20Bases%20de%20Datos%20Distribuidas%20%20(2017-2018).pdf)
 
 Este documento contiene los objetivos marcados desde el inicio del proyecto.
 

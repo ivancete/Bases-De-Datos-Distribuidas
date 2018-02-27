@@ -2,8 +2,7 @@
 
 ## Resumen 
 En este repositorio se encuentra la documentación del trabajo realizado para el diseño de una base de datos distribuida. 
-Para este proyecto se ha usado la herramienta SQL Developer, de Oracle. 
-Para la implementación de la base de datos hemos contado con MySql.
+Para este proyecto se ha usado la herramienta SQL Developer, de Oracle y para la implementación de la base de datos hemos contado con MySql.
 
 
 ## Objetivos
